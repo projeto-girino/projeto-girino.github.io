@@ -1,0 +1,20 @@
+body {
+    background-color: #d2d3d6;
+}
+
+hr {
+    width: 50%;
+    margin: black;
+    background-color: black;
+}
+
+
+.wrapper {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.content-section {
+    margin-top: 4px;
+    border-radius: 5px;
+}
