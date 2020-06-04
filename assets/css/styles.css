@@ -4,10 +4,17 @@ body {
 
 hr {
     width: 50%;
+}
+
+.bg-primary hr {
+    margin: white;
+    background-color: white;
+}
+
+.bg-white hr {
     margin: black;
     background-color: black;
 }
-
 
 .wrapper {
     margin-right: 10px;
