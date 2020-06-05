@@ -25,3 +25,25 @@ hr {
     margin-top: 4px;
     border-radius: 5px;
 }
+
+.person-img {
+    max-width: 150px;
+    max-height: 150px;
+
+    border-radius: 100%;
+}
+
+.person {
+    padding: 10px;
+    display: block;
+}
+
+.person span {
+    font-weight: bolder;
+}
+
+.person div {
+    display: flex;
+    flex-direction: column;
+}
+
